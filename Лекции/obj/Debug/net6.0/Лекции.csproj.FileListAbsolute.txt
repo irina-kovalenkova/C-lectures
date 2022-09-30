@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Лекции\bin\Debug\net6.0\Лекции.exe
+D:\GeekBrains\C#\Лекции\bin\Debug\net6.0\Лекции.deps.json
+D:\GeekBrains\C#\Лекции\bin\Debug\net6.0\Лекции.runtimeconfig.json
+D:\GeekBrains\C#\Лекции\bin\Debug\net6.0\Лекции.dll
+D:\GeekBrains\C#\Лекции\bin\Debug\net6.0\Лекции.pdb
+D:\GeekBrains\C#\Лекции\obj\Debug\net6.0\Лекции.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Лекции\obj\Debug\net6.0\Лекции.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Лекции\obj\Debug\net6.0\Лекции.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Лекции\obj\Debug\net6.0\Лекции.AssemblyInfo.cs
+D:\GeekBrains\C#\Лекции\obj\Debug\net6.0\Лекции.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Лекции\obj\Debug\net6.0\Лекции.dll
+D:\GeekBrains\C#\Лекции\obj\Debug\net6.0\refint\Лекции.dll
+D:\GeekBrains\C#\Лекции\obj\Debug\net6.0\Лекции.pdb
+D:\GeekBrains\C#\Лекции\obj\Debug\net6.0\Лекции.genruntimeconfig.cache
+D:\GeekBrains\C#\Лекции\obj\Debug\net6.0\ref\Лекции.dll
